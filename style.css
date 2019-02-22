@@ -1,0 +1,38 @@
+body {
+	width: 100vw;
+	height: 100vh;
+	margin: 0;
+	display: flex;
+}
+.center-content {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.cube1 {
+	display: flex;
+	height: calc(100vh/3);
+	width: 100%;
+}
+
+.cube2 {
+	height: calc(100vh/3);
+	width: 100%; 
+	background-color #C0F5FF
+}
+
+.cube3 {
+	height: calc(100/3);
+	width: 100%;
+	background-color: #B0B7BC;
+}
+
+.square {
+	display: flex;
+	height: 66.66%;
+	width: 100%;
+	background-color: #76F0FF;
+	
+
+}
